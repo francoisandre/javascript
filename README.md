@@ -10,7 +10,13 @@
 
 ## TP 3 - Événements et effets
 
+* [TP3.pdf](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP3.pdf)
+* [Fichier HTML](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP3_materiel.zip)
+
 
 ## TP 4 - Traverser et manipuler le DOM
 
 ## TP 5 - AJAX
+
+* [TP5.pdf](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP5.pdf)
+* [Fichier HTML](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP5_materiel.zip)
