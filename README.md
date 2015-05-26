@@ -25,6 +25,10 @@
 
 ## TP 4 - Traverser et manipuler le DOM
 
+* [TP4.pdf](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP4.pdf)
+* [Fichiers HTML](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP4_materiel.zip)
+* [Correction](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP4_correction.zip)
+
 ## TP 5 - AJAX
 
 * [TP5.pdf](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP5.pdf)
