@@ -1,3 +1,7 @@
+# ITW - Support de cours
+
+* [Javascript_concepts_de_base.pdf](https://github.com/fauconnier/ITW_TP/raw/master/materiel/Javascript_concepts_de_base.pdf)
+
 # ITW - Matériel de TP
 
 ## TP 1 - Installation de jQuery et Sélecteurs
