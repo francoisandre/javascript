@@ -13,6 +13,9 @@
 
 ## TP 2 - Attributs et feuilles de styles CSS
 
+* [TP2.pdf](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP2.pdf)
+* [Fichiers HTML](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP2_materiel.zip)
+* [Correction](https://github.com/fauconnier/ITW_TP/raw/master/materiel/TP2_correction.zip)
 
 ## TP 3 - Événements et effets
 
